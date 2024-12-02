@@ -1,3 +1,5 @@
+[GPT generated readme]
+---
 # CuratedX Discord Bot
 
 CuratedX is a customizable Discord bot designed to streamline link sharing and curation within a server. It detects links posted in a designated channel, allows members to upvote them, and curates the most popular links in a separate channel. With rich embed formatting, dynamic configurations, and an easy-to-use command interface, CuratedX is perfect for maintaining a high-quality content feed in any community.
