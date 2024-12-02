@@ -1,4 +1,4 @@
-### [GPT generated readme]
+<sup><sub>_This README was generated with assistance from GPT to ensure clarity and completeness._</sub></sup>
 ---
 # CuratedX Discord Bot
 
