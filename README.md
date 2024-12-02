@@ -1,4 +1,4 @@
-[GPT generated readme]
+### [GPT generated readme]
 ---
 # CuratedX Discord Bot
 
